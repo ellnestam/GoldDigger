@@ -1,0 +1,18 @@
+Pre-requisite:
+
+Maven 2 installed, it has been tested and build with Apache Maven 2.1.0
+
+To build:
+
+mvn clean install
+
+To run the server:
+
+java -jar server-1.0-jar-with-dependencies.jar
+
+To change the players name and password:
+
+* Edit the file
+  mastermind\Golddigger\src\main\resources\com\agical\golddigger\model\players.txt
+
+* Rebuild as above.

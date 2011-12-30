@@ -1,0 +1,3 @@
+# name; password   [Hash is comment, leading and ending white space is ignored, separation is semicolon]
+foo; bar
+apa; bapa

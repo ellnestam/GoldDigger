@@ -1,0 +1,9 @@
+# name; password   [Hash is comment, leading and ending white space is ignored, separation is semicolon, define passwords without whitespace]
+Itello; jan
+3Mix; feb
+Ekero Kickers; mar
+Jalbum; apr
+Corleone; maj
+G-fingers; jun
+Fastbuck; jul
+Tattaglia; aug

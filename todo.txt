@@ -1,0 +1,17 @@
+--Done:
+Log
+Delay requests
+Instructions
+Better field presentation
+Partial view
+Scrolling field
+Fix icons
+
+
+--Todo:
+Restore state from log
+Delay playback from log.
+Create fields (40?)
+
+Performance and memory
+
